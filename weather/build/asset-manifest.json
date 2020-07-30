@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elroyi-elroyi-bendavid-27-7-2020/static/css/main.bcf12e56.chunk.css",
+    "main.js": "/elroyi-elroyi-bendavid-27-7-2020/static/js/main.7f433965.chunk.js",
+    "main.js.map": "/elroyi-elroyi-bendavid-27-7-2020/static/js/main.7f433965.chunk.js.map",
+    "runtime-main.js": "/elroyi-elroyi-bendavid-27-7-2020/static/js/runtime-main.4c446d44.js",
+    "runtime-main.js.map": "/elroyi-elroyi-bendavid-27-7-2020/static/js/runtime-main.4c446d44.js.map",
+    "static/js/2.2d2946ab.chunk.js": "/elroyi-elroyi-bendavid-27-7-2020/static/js/2.2d2946ab.chunk.js",
+    "static/js/2.2d2946ab.chunk.js.map": "/elroyi-elroyi-bendavid-27-7-2020/static/js/2.2d2946ab.chunk.js.map",
+    "index.html": "/elroyi-elroyi-bendavid-27-7-2020/index.html",
+    "precache-manifest.eb1cb9abdf5cb7b9b0c9e05c512f5ec2.js": "/elroyi-elroyi-bendavid-27-7-2020/precache-manifest.eb1cb9abdf5cb7b9b0c9e05c512f5ec2.js",
+    "service-worker.js": "/elroyi-elroyi-bendavid-27-7-2020/service-worker.js",
+    "static/css/main.bcf12e56.chunk.css.map": "/elroyi-elroyi-bendavid-27-7-2020/static/css/main.bcf12e56.chunk.css.map",
+    "static/js/2.2d2946ab.chunk.js.LICENSE.txt": "/elroyi-elroyi-bendavid-27-7-2020/static/js/2.2d2946ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c446d44.js",
+    "static/js/2.2d2946ab.chunk.js",
+    "static/css/main.bcf12e56.chunk.css",
+    "static/js/main.7f433965.chunk.js"
+  ]
+}
